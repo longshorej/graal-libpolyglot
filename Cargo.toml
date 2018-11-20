@@ -1,0 +1,10 @@
+[package]
+name = "graal-libpolyglot"
+version = "0.1.0"
+authors = ["Jason Longshore <hello@jasonlongshore.com>"]
+
+[dependencies]
+libc = "0.2.0"
+
+[build-dependencies]
+bindgen = "0.42.2"
