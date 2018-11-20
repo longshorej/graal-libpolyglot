@@ -10,4 +10,4 @@ See [rust-bindgen](https://rust-lang-nursery.github.io/rust-bindgen/library-usag
 
 ## License
 
-Depot is licensed under the Apache License, Version 2. See [LICENSE](LICENSE).
+graal-libpolyglot is licensed under the Apache License, Version 2. See [LICENSE](LICENSE).
